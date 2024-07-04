@@ -1,5 +1,4 @@
-traccar/traccar:6.2
-#nginx:1.27
+bytebase/bytebase:2.20.0
 #tenable/nessus:10.7.4-oracle
 #支持私库
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0
