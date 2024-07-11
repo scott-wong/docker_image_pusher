@@ -1,5 +1,4 @@
-openfrp/frpc
-#tenable/nessus:10.7.4-oracle
+mysql:8.4.1-oracle
 #支持私库
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0
 #支持指定架构
