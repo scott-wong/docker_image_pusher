@@ -1,4 +1,5 @@
-mysql:8.4.1-oracle
+--platform=linux/arm64 mzz2017/v2raya:v2.2.5.8
+
 #支持私库
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0
 #支持指定架构
