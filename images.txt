@@ -1,4 +1,4 @@
-eosphorosai/dbgpt:v0.5.9
+grafana/grafana:11.1.1
 #支持私库
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0
 #支持指定架构
