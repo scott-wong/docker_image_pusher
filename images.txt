@@ -1,4 +1,4 @@
-curlimages/curl:7.85.0
+prom/mysqld-exporter:main
 #支持私库
 #ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0
 #支持指定架构
